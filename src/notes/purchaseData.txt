@@ -1,0 +1,78 @@
+{
+    "customerID": "CrmCust00012",
+    "invoiceID": "invoice000989",
+    "orderID": "order23232",
+    "newData": {
+        "customerID": "Cust0001",
+        "invoiceID": "invoice000989",
+        "orderID": "order23232",
+        "name": "Humayu",
+        "email": "ming_watkins454@facebook.info",
+        "phoneNo": 6616147883,
+        "address": {
+            "city" : "West Brendonville",
+            "country" : "Comoros",
+            "county" : "Durham",
+            "street" : "1442 Harmon Lodge",
+            "zipCode" : "77445-8193"
+        },
+        "role": "customer",
+        "isActive": true,
+        "extra": {
+          "primeMember": true,
+          "subscription": "CANCELLED",
+          "primePlan": "YEAR"
+        },
+        "otherContact": {
+            "name": "ibrahim",
+            "phoneNo": 7845122356
+        },
+        "other": {
+          "referredBy": "Abdul",
+          "referralCode": "FIRSTORDER"
+        },
+        "created_at": "2022-10-25T17:29:26.000Z",
+        "updated_at": "2022-01-21T12:06:28.000Z",
+        "couponInfo": {
+        "couponUsage": true,
+        "couponCode" : ["NEW_USER","YEAREND","WELCOMEYEAR"],
+        "offerValidity" : "2023-01-01T12:06:28.000Z",
+        "couponUsed" : 2,
+        "couponAvailability": 3
+        },
+        "orderInfo": {
+            "orderID": "Order007896",
+            "InvoiceID": "InvoiceID20230032",
+            "type": "Premium",
+            "status" : "PICKED_UP",
+            "isCompleted" : true,
+            "feature": "delievery"
+        },
+        "accounts": {
+            "paymentType": "CASH",
+            "grandTotal": 234,
+            "cashback": 50,
+            "totalTax": 23,
+            "walletUsed": false,
+            "totalPaid": 100,
+            "balance": 84
+        },
+        "cartItems": {
+                  "item" : [
+                        {
+                            "name" : "Amaranth Greens",
+                            "price" : 2.5,
+                            "quantity" : 2.5,
+                            "total" : 2.5
+                        },
+                        {
+                            "name" : "Gai Choy",
+                            "price" : 2,
+                            "quantity" : 1,
+                            "total" : 6.25
+                        }]
+        },
+        "orderRatings": 3,
+        "customerSuggestion": "Like to shop here.. Tahank you"
+      }
+}
